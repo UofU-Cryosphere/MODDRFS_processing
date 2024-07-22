@@ -1,0 +1,3 @@
+[console_scripts]
+variable_from_modis = snow_rs.modis.variable_from_modis:main
+
